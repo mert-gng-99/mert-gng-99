@@ -1,5 +1,5 @@
 
-#About Me:
+# About Me:
 Hi! I am **Mert**. I am a Computer Science and Engineering student at **Sabancı University**. I am also doing a double major in **Data Science and Analytics**. I have been developing software for 5 years. I love solving problems and learning new technologies.
 
 * 🔭 **I’m currently working on**: Developing custom game scripts and mechanics for FiveM projects using Lua and C++. I also optimize server performance and security.
